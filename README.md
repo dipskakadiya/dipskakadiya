@@ -1,3 +1,4 @@
+
 ### Hi there, I'm Dipesh Kakadiya 👋 
 
 - 🔭 I’m currently working as Senior Lead WordPress Developer.
@@ -7,11 +8,11 @@
 
 ## Connect with me
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailtdipesh.kakadiya111@gmail.com) 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dipskakadiya/) 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipskakadiya/)
-[<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />](https://profiles.wordpress.org/dipeshkakadiya/)
-[<img src="https://img.shields.io/badge/Dips@WP-FEAA2D?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" />](https://devdips.wordpress.com/)
+<a href="mailtdipesh.kakadiya111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/dipskakadiya/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dipskakadiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://profiles.wordpress.org/dipeshkakadiya/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+<a href="https://devdips.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Dips@WP-FEAA2D?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" /></a>
 
 ## Technology 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
