@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Dipesh Kakadiya 👋 
 
-- 🔭 I’m currently working as Senior Lead WordPress Developer.
+- 🔭 I’m currently working as WordPress Engineer.
 - 🌱 I’m currently learning Guternberg and React.
 - 👯 I’m looking to collaborate on Open source platform like WordPress, Guternberg, BuddyPress.
 - ⚡ Fun fact: While I'm not working I love to visite new places
