@@ -65,6 +65,7 @@ Created a set of custom REST APIs for the BuddyBoss platform to enhance communit
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dipskakadiya/)
 - 📬 Email: dipesh.kakadiya111@gmail.com
+- 📝 Blog: https://devdips.wordpress.com/
 - 💼 Open to full-time, Part-time or contract base roles focused on **WordPress**, **Gutenberg**, or **custom REST API** development
 
 ---
