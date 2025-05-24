@@ -13,6 +13,8 @@ I'm a passionate WordPress Engineer with over a decade of experience crafting cu
 
 I’ve contributed to some exciting projects, volunteered in the WordPress community, and love exploring new places when I’m not writing code.
 
+[![Dipesh's WordPress](https://www.cardpress.us/card?username=dipesh.kakadiya&badges=true)](https://devdips.wordpress.com/)
+
 ---
 
 ## 💼 Featured Projects
