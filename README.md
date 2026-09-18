@@ -1,76 +1,204 @@
 # 👋 Hi, I'm Dipesh Kakadiya
 
-🚀 Lead WordPress Engineer with 10+ years of experience  
-🎯 Specializing in WordPress, Gutenberg, REST APIs, LearnDash, and scalable platform architecture  
-🌱 Passionate about open-source, clean code, and mentoring teams  
-📍 Based in Maharashtra, India  
+### 🚀 Lead WordPress Engineer · Enterprise WordPress · Gutenberg · REST APIs
+
+I’m a **Lead WordPress Engineer with 10+ years of experience** building custom WordPress platforms, plugins, APIs, Gutenberg experiences, and scalable content systems.
+
+I enjoy solving complex engineering problems, designing maintainable architectures, improving developer workflows, and mentoring teams to build software that scales.
+
+📍 Maharashtra, India  
+💼 Open to **Full-time · Part-time · Contract** opportunities
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate WordPress Engineer with over a decade of experience crafting custom plugins, themes, and scalable systems. Whether it's building Gutenberg blocks, creating REST APIs, or optimizing multilingual LMS platforms, I focus on delivering clean, efficient solutions that support business growth and developer productivity.
+I'm a WordPress-focused engineer with extensive experience across the WordPress ecosystem — from custom plugin and theme development to enterprise platforms and API-driven applications.
 
-I’ve contributed to some exciting projects, volunteered in the WordPress community, and love exploring new places when I’m not writing code.
+My work typically sits at the intersection of **WordPress, backend engineering, frontend development, and platform architecture**.
 
-[![Dipesh's WordPress](https://www.cardpress.us/card?username=dipesh.kakadiya&badges=true)](https://devdips.wordpress.com/)
+### What I work on
 
----
+- 🏗️ **Enterprise WordPress Architecture**
+- 🧩 **Custom Plugins & Themes**
+- 🧱 **Gutenberg & Block Development**
+- 🔌 **REST API & Headless Integrations**
+- ⚛️ **React & JavaScript Applications**
+- 🎓 **LearnDash & LMS Platforms**
+- 🌍 **Multilingual WordPress Platforms**
+- ⚡ **Performance & Scalability**
+- 🔐 **Secure WordPress Development**
+- 🛠️ **Developer Tooling & Automation**
+- 👥 **Technical Leadership & Mentoring**
 
-## 💼 Featured Projects
-
-> Most of my work is protected under NDAs, so I’m unable to share the source code publicly. However, you can check out some **example assignment projects** on my GitHub that demonstrate my capabilities around WordPress, Gutenberg, and backend development.
-
-### 🏅 **Live Blogging System – Paris Olympics 2024**
-Built the backend for a high-performance live blog system used during the Olympics. Supported over **1,000 live blogs** and **50,000+ updates**, integrating CAPI and Gutenberg Editor with full versioning and template support.
-
-### 📚 **WordPress LMS Platform (LearnDash)**
-Developed a multilingual quiz importer and CSV-to-content tools for LearnDash. Saved countless hours for course authors and enabled smooth operations for thousands of learners.
-
-### 📱 **BuddyBoss Mobile API**
-Created a set of custom REST APIs for the BuddyBoss platform to enhance community and learning features inside the mobile app.
-
----
-
-## 🛠️ Technologies
-
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Gutenberg](https://img.shields.io/badge/-Gutenberg-000000?style=flat&logo=wordpress)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST%20API-0A0A0A?style=flat&logo=api&logoColor=white)
-![Pantheon](https://img.shields.io/badge/-Pantheon-FFD700?style=flat&logo=pantheon)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-## Tools 
-<img src="https://img.shields.io/badge/phpstorm-FF318C?style=for-the-badge&logo=phpstorm&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Slack-E01E5A?style=for-the-badge&logo=Slack&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0747A6?style=for-the-badge&logo=Jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+> I love building systems that empower teams, scale with ease, and leave developers smiling.
 
 ---
 
-## 🧪 Community & Contributions
+## 🏆 Certifications
 
-- 🧡 Contributor to open-source plugins like Gutenberg and BuddyPress
-- 🏕️ Volunteer at the first **WordCamp Asia** (Registration Desk)
-- 🎤 Editor of Gujarati translator of WordPress.
-- 🧠 Always open to mentoring developers and sharing what I learn
+### Advanced Professional WordPress Developer
+
+**Automattic** · Issued Sep 2026 · Expires Sep 2029  
+Credential ID: `194464162`
+
+🔗 [View Credential](https://automattic.credential.net/37f7058f-450c-40ea-9816-f32afcd4cb44)
+
+### Pantheon WebOps Certified Developer
+
+**Pantheon** · Issued Sep 2023  
+Credential ID: `84016260`
+
+🔗 [View Credential](https://www.credential.net/e04aeecc-37a0-43d8-a82a-bbe97f9ff127)
 
 ---
 
-## 📫 Let’s Connect
+## 💼 Featured Engineering Work
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dipskakadiya/)
-- 📬 Email: dipesh.kakadiya111@gmail.com
-- 📝 Blog: https://devdips.wordpress.com/
-- 💼 Open to full-time, Part-time or contract base roles focused on **WordPress**, **Gutenberg**, or **custom REST API** development
+> Most of my professional work is protected under NDAs, so I cannot publicly share source code. The projects below represent the type and scale of engineering problems I've worked on.
+>
+> I also maintain example/assignment projects on GitHub that demonstrate my approach to WordPress, Gutenberg, PHP, JavaScript, and backend development.
+
+### 🏅 Live Blogging Platform — Paris Olympics 2024
+
+Built the **backend architecture for a high-performance live blogging system** used during the Paris Olympics.
+
+**Highlights**
+
+- Supported **1,000+ live blogs**
+- Handled **50,000+ live updates**
+- Integrated with **CAPI**
+- Integrated live content workflows with **Gutenberg**
+- Implemented **versioning and revision support**
+- Developed reusable **templates and content structures**
+- Designed the system with scalability and operational efficiency in mind
+
+**Focus:** `WordPress` · `PHP` · `Gutenberg` · `REST APIs` · `CAPI` · `Scalability`
 
 ---
 
-> “I love building systems that empower teams, scale with ease, and leave developers smiling.”  
-> — Dipesh Kakadiya
+### 📚 Enterprise WordPress LMS — LearnDash
+
+Developed tooling and integrations for a multilingual **WordPress LMS ecosystem powered by LearnDash**.
+
+**Highlights**
+
+- Built a multilingual **quiz importer**
+- Developed **CSV-to-content** generation workflows
+- Automated repetitive content-authoring tasks
+- Improved the publishing workflow for course authors
+- Supported large-scale learning operations with **thousands of learners**
+
+**Focus:** `WordPress` · `LearnDash` · `PHP` · `REST APIs` · `CSV` · `Multilingual`
+
+---
+
+### 📱 BuddyBoss Mobile API Platform
+
+Designed and developed **custom REST APIs for BuddyBoss** to extend community and learning functionality into a mobile application.
+
+**Highlights**
+
+- Designed custom WordPress REST endpoints
+- Extended BuddyBoss functionality
+- Connected WordPress data with mobile application workflows
+- Worked with authentication, permissions, and structured API responses
+
+**Focus:** `WordPress` · `BuddyBoss` · `REST API` · `PHP` · `Mobile Integration`
+
+---
+
+## 🛠️ Technical Stack
+
+### WordPress & Backend
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0A0A0A?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Frontend & Gutenberg
+
+![Gutenberg](https://img.shields.io/badge/Gutenberg-000000?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Platform & DevOps
+
+![Pantheon](https://img.shields.io/badge/Pantheon-FFD700?style=for-the-badge&logo=pantheon&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Engineering Tools
+
+![PhpStorm](https://img.shields.io/badge/PhpStorm-FF318C?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0747A6?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-E01E5A?style=for-the-badge&logo=slack&logoColor=white)
+
+---
+
+## 🧠 Engineering Focus
+
+```text
+WordPress Architecture
+        │
+        ├── Custom Plugins & Themes
+        ├── Gutenberg / Block Development
+        ├── REST API Architecture
+        ├── Headless Integrations
+        ├── LMS & Learning Platforms
+        ├── Multilingual Systems
+        ├── Performance & Scalability
+        └── Developer Experience
+```
+
+I particularly enjoy working on problems where **WordPress needs to operate as more than a traditional CMS** — serving as a content platform, API layer, application backend, or part of a larger distributed system.
+
+---
+
+## 🧪 Open Source & WordPress Community
+
+- 🧡 Contributor to open-source projects including **WordPress** and **BuddyPress**
+- 🏕️ Volunteer at the first **WordCamp Asia** — Registration Desk
+- 🌐 Editor of the **Gujarati WordPress translation**
+- 🧠 Mentor developers and share knowledge around WordPress engineering
+- 🌱 Passionate about open source, clean code, and sustainable engineering practices
+
+---
+
+## 📊 What I Bring
+
+| Area | Experience |
+|---|---|
+| WordPress | Custom platforms, plugins, themes & integrations |
+| Gutenberg | Custom blocks, editor integrations & content workflows |
+| Backend | PHP, WordPress APIs, custom architecture |
+| APIs | REST APIs, integrations & application backends |
+| Frontend | JavaScript, React & Gutenberg |
+| LMS | LearnDash, quizzes, course content & automation |
+| Platforms | Pantheon & enterprise WordPress environments |
+| Architecture | Scalable, maintainable & API-driven systems |
+| Leadership | Technical guidance, mentoring & developer enablement |
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 **LinkedIn:** [linkedin.com/in/dipskakadiya](https://www.linkedin.com/in/dipskakadiya/)
+- 📬 **Email:** [dipesh.kakadiya111@gmail.com](mailto:dipesh.kakadiya111@gmail.com)
+- 📝 **Blog:** [devdips.wordpress.com](https://devdips.wordpress.com/)
+
+### 💼 Open to opportunities
+
+I'm open to **full-time, part-time, and contract roles** focused on:
+
+`WordPress` · `Gutenberg` · `PHP` · `REST APIs` · `Platform Engineering` · `LMS` · `Technical Leadership`
+
+---
+
+<p align="center">
+  <i>Building scalable systems, solving interesting problems, and helping developers build better software.</i>
+</p>
